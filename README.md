@@ -1,8 +1,7 @@
 # Medicine Recommendation System
 
-![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)
+![Python](https://img.shields.io/badge/python-3.10%2B-blue.svg)
 ![Flask](https://img.shields.io/badge/Flask-v2.0.0-orange.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
 
 ## Table of Contents
 - [Introduction](#introduction)
